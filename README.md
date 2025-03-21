@@ -1,2 +1,1 @@
-# Data_science
-all courses certificate projects related to Data_science.
+all courses' certificates and projects related to Data_science.
