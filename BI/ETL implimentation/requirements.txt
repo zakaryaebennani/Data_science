@@ -1,7 +1,0 @@
-pandas
-numpy
-pymongo
-scikit-learn
-psycopg2
-sqlalchemy
-pyarrow
